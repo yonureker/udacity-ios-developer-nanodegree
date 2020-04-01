@@ -5,7 +5,7 @@ struct Name {
     return volumeMilliliters >= otherBeaker.volumeMilliliters
   }
 
-  //create Beaker
+  //create Beaker c
   struct Beaker {
     var volumeMilliliters: Double
 
